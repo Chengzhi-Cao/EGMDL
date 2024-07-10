@@ -85,12 +85,15 @@ The event version of MARS is so large (almost 20,000 videos). In the following w
 * Organize the data structure to match
 
 
+
 ```
 ilids-vid/
     i-LIDS-VID/
     i-LIDS-VID—event/
     train-test people splits
 ```
+
+* For degraded version, you can download in this link:https://pan.baidu.com/s/1lph12hCeQ81QyryAL8YkKA (h994) 
 
 ### PRID
 
@@ -107,7 +110,31 @@ PRID/
     prid_2011/
     prid_2011_event/
 ```
----
+
+* For degraded version, you can download in this link:https://pan.baidu.com/s/1KNFedri81RjhGIPWk5HmFw (s98d) 
+
+
+
+### LowIllumination
+
+* Create a directory named LowIllumination/ under data/.
+
+* Download the dataset and event sequence from: https://pan.baidu.com/s/1LXuClL1wPU7KWbw8GdKKCg (a0hn) 
+
+
+* Organize the data structure to match
+
+
+```
+LowIllumination/
+    LowIllumination/
+    LowIllumination_event/
+```
+
+
+
+
+
 
 ## Train
 
