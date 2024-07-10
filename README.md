@@ -136,3 +136,12 @@ python Test.py  --arch 'model_name'\
                 --triplet_distance 'cosine'\
                 --test_distance 'cosine'
  ```
+
+
+
+## Acknowledgements
+The evaluation code (cmc & mAP) is partially borrowed from the [MARS-evaluation](https://github.com/liangzheng06/MARS-evaluation) repository. 
+
+
+## Contact
+Should you have any question, please contact chengzhicao@mail.ustc.edu.cn.
