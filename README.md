@@ -2,7 +2,7 @@
 
 This repository provides the official PyTorch implementation of the following paper:
 
-**Event-Guided Multi-Degradation Learning for Robust Person Re-Identification**
+**Learning Robust Event-Guided Representations for Person Re-Identification**
 
 ## Dependencies
 
