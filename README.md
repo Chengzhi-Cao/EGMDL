@@ -15,8 +15,8 @@ This repository provides the official PyTorch implementation of the following pa
 
 
 ## Key-point Estimation
-### Dataset preparation
-Download [DHP19](https://github.com/SensorsINI/DHP19) dataset and generate following [DHP19EPC](DHP19EPC/DHP19EPC.md).
+### Dataset preparation 
+Download [DHP19](https://github.com/SensorsINI/DHP19) dataset and generate following [DHP19EPC](key_point_estimation/DHP19EPC/DHP19EPC.md).
 
 ### Folder Hierarchy
 Your work space will look like this(note to change the data path in the codes to your own path):
