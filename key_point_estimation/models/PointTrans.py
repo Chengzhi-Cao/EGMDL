@@ -4,7 +4,7 @@
 # Modified from "https://github.com/qq456cvb/Point-Transformers/tree/master/models/Hengshuang"
 
 import torch.nn as nn
-from .PointTrans_tools import PointNetSetAbstraction, TransformerBlock
+from .SpatioTemporalGraph_tools import PointNetSetAbstraction, TransformerBlock
 
 
 class TransitionDown(nn.Module):
